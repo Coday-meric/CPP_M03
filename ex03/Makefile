@@ -1,6 +1,6 @@
-NAME = ClapTrap
+NAME = DiamondTrap
 
-SRC = main.cpp ClapTrap.cpp
+SRC = main.cpp ClapTrap.cpp ScavTrap.cpp FragTrap.cpp DiamondTrap.cpp
 
 FLAG = -Wall -Werror -Wextra
 
